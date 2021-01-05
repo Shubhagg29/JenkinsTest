@@ -10,7 +10,7 @@ pipeline {
 	    stage('Two'){
 		    
 		steps {
-			echo 'Hi, this is Jenkins from Git'
+			echo 'Hi, this is Jenkins from Github'
         }
 	    }
         stage('Three') {
